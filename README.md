@@ -13,6 +13,7 @@ You can also check:
 
 | Question |
 | -------- |
+| <a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1.%20Two%20Sum">1. Two Sum</a>  |
 | <a href="">49. Group Anagrams</a> |
 | <a href="">125. Valid Palindrome</a>  |
 | <a href="">347. Top K Frequent Elements</a>  |
