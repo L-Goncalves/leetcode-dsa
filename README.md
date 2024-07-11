@@ -20,3 +20,16 @@ You can also check:
 | <a href="">125. Valid Palindrome</a>  |
 | <a href="">347. Top K Frequent Elements</a>  |
 | <a href="">771. Jewels and Stones</a>  |
+
+
+
+
+## Some Resources great to check and learn.
+
+<div style="text-align:center">
+ <a href="https://www.youtube.com/watch?v=GzJoqJO1zdI"><img src="https://www.youtube.com/s/desktop/29521ae7/img/favicon.ico" /> Binary Trees - Data Structures Explained by  Aaron Jack</a>                                                                                                         
+ </div>
+
+
+
+
