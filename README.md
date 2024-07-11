@@ -16,6 +16,8 @@ You can also check:
 
 
 
+ Current Problems Solved: 15
+ 
 | Question |
 | -------- |
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1.%20Two%20Sum/index.ts">1. Two Sum</a>|
