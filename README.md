@@ -4,13 +4,16 @@ This repository is and will be 100% Done in Typescript, you can find the problem
 
 
 You can also check: 
- <div style="color: white;">
-<a href="https://leetcode.com/L-Goncalves" rel="nofollow">
-        <img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" alt="LeetCode" style="max-width: 50%;">
-    LGoncalves
-   </a>
-  
+<div style="text-align:center">
+ <a href="https://leetcode.com/L-Goncalves">
+  <img width="18" src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" alt="LeetCode"/> My Leetcode Profile. | LGoncalves </a>        
+
  </div>
+
+
+
+
+
 
 
 | Question |
@@ -28,15 +31,17 @@ You can also check:
 
 
 
-## Binary Trees:
+### Binary Trees:
 
 <div style="text-align:center">
  <a href="https://www.youtube.com/watch?v=GzJoqJO1zdI"><img src="https://www.youtube.com/s/desktop/29521ae7/img/favicon.ico" /> Binary Trees - Data Structures Explained by  Aaron Jack</a>             
  </div>
 
+
+### B-Trees
 <div style="text-align:center">
  <a href="https://www.youtube.com/watch?v=K1a2Bk8NrYQ"><img src="https://www.youtube.com/s/desktop/29521ae7/img/favicon.ico" /> Understanding B-Trees: The Data Structure Behind Modern Databases by Spanning Tree</a>                                               
- </div>
+</div>
 
 
 
