@@ -26,9 +26,18 @@ You can also check:
 
 ## Some Resources great to check and learn.
 
+
+
+## Binary Trees:
+
 <div style="text-align:center">
- <a href="https://www.youtube.com/watch?v=GzJoqJO1zdI"><img src="https://www.youtube.com/s/desktop/29521ae7/img/favicon.ico" /> Binary Trees - Data Structures Explained by  Aaron Jack</a>                                                                                                         
+ <a href="https://www.youtube.com/watch?v=GzJoqJO1zdI"><img src="https://www.youtube.com/s/desktop/29521ae7/img/favicon.ico" /> Binary Trees - Data Structures Explained by  Aaron Jack</a>             
  </div>
+
+<div style="text-align:center">
+ <a href="https://www.youtube.com/watch?v=K1a2Bk8NrYQ"><img src="https://www.youtube.com/s/desktop/29521ae7/img/favicon.ico" /> Understanding B-Trees: The Data Structure Behind Modern Databases by Spanning Tree</a>                                               
+ </div>
+
 
 
 
