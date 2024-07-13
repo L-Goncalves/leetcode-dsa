@@ -16,8 +16,8 @@ You can also check:
 
 
 
- Current Problems Solved: 15
- 
+
+ Current Problems Solved: 17
 | Question |
 | -------- |
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1.%20Two%20Sum/index.ts">1. Two Sum</a>|
@@ -25,9 +25,11 @@ You can also check:
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array/index.ts">26. Remove Duplicates from Sorted Array</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/27.%20Remove%20Element/index.ts">27. Remove Element</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/28.%20Find%20the%20index%20of%20First%20Occurence%20in%20a%20String/index.ts">28. Find the index of First Occurence in a String</a>|
+|<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/35.%20Search%20Insert%20Position/index.ts">35. Search Insert Position</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/49.%20Group%20Anagrams/index.ts">49. Group Anagrams</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/58.%20Length%20of%20Last%20Word/index.ts">58. Length of Last Word</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/88.%20Merge%20Sorted%20Array/index.ts">88. Merge Sorted Array</a>|
+|<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/index.ts">121. Best Time to Buy and Sell Stock</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/125.%20Valid%20Palindrome/index.ts">125. Valid Palindrome</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/151.%20Reverse%20Words%20in%20a%20String/index.ts">151. Reverse Words in a String</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/169.%20Majority%20Element/index.ts">169. Majority Element</a>|
