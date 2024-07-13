@@ -17,7 +17,8 @@ You can also check:
 
 
 
- Current Problems Solved: 17
+
+ Current Problems Solved: 18
 | Question |
 | -------- |
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1.%20Two%20Sum/index.ts">1. Two Sum</a>|
@@ -33,10 +34,12 @@ You can also check:
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/125.%20Valid%20Palindrome/index.ts">125. Valid Palindrome</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/151.%20Reverse%20Words%20in%20a%20String/index.ts">151. Reverse Words in a String</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/169.%20Majority%20Element/index.ts">169. Majority Element</a>|
+|<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/226.%20Invert%20Binary%20Tree/index.ts">226. Invert Binary Tree</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/347.%20Top%20K%20Frequent%20Elements/index.ts">347. Top K Frequent Elements</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/771.%20Jewels%20and%20Stones/index.ts">771. Jewels and Stones</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/929.%20Unique%20Email%20Addresses/index.ts">929. Unique Email Addresses</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/2667.%20Create%20Hello%20World%20Function/index.ts">2667. Create Hello World Function</a>|
+
 
 
 
