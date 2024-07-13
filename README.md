@@ -58,6 +58,10 @@ You can also check:
  <a href="https://www.youtube.com/watch?v=fAAZixBzIAI"><img src="https://www.youtube.com/s/desktop/29521ae7/img/favicon.ico" /> Binary Tree Algorithms for Technical Interviews - Full Course by freeCodeCamp.org</a>             
  </div>
 
+ <div style="text-align:center">
+ <a href="https://www.youtube.com/watch?v=b_NjndniOqY"><img src="https://www.youtube.com/s/desktop/29521ae7/img/favicon.ico" /> Learn Tree traversal in 3 Minutes by Bro Code</a>             
+ </div>
+
 
 ### B-Trees
 <div style="text-align:center">
