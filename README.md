@@ -20,7 +20,8 @@ You can also check:
 
 
 
- Current Problems Solved: 20
+
+ Current Problems Solved: 21
 | Question |
 | -------- |
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1.%20Two%20Sum/index.ts">1. Two Sum</a>|
@@ -32,6 +33,7 @@ You can also check:
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/35.%20Search%20Insert%20Position/index.ts">35. Search Insert Position</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/49.%20Group%20Anagrams/index.ts">49. Group Anagrams</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/58.%20Length%20of%20Last%20Word/index.ts">58. Length of Last Word</a>|
+|<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/74.%20Search%20a%202D%20Matrix/index.ts">74. Search a 2D Matrix</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/88.%20Merge%20Sorted%20Array/index.ts">88. Merge Sorted Array</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/index.ts">121. Best Time to Buy and Sell Stock</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/125.%20Valid%20Palindrome/index.ts">125. Valid Palindrome</a>|
