@@ -19,11 +19,13 @@ You can also check:
 
 
 
- Current Problems Solved: 19
+
+ Current Problems Solved: 20
 | Question |
 | -------- |
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1.%20Two%20Sum/index.ts">1. Two Sum</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/13.%20Roman%20to%20Integer/index.ts">13. Roman to Integer</a>|
+|<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/14.%20Longest%20Common%20Prefix/index.ts">14. Longest Common Prefix</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array/index.ts">26. Remove Duplicates from Sorted Array</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/27.%20Remove%20Element/index.ts">27. Remove Element</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/28.%20Find%20the%20index%20of%20First%20Occurence%20in%20a%20String/index.ts">28. Find the index of First Occurence in a String</a>|
