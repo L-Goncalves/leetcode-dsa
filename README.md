@@ -51,6 +51,15 @@ You can also check:
 ## Some Resources great to check and learn.
 
 
+### Highly Recommended:
+
+
+<div style="text-align:center">
+ <a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/"><img height="16" src="https://frontends.udemycdn.com/frontends-marketplace-experience/staticx/udemy/images/v8/favicon-32x32.png" /> JavaScript Algorithms and Data Structures Masterclass
+</a>             
+ </div>
+
+
 
 ### Binary Trees:
 
