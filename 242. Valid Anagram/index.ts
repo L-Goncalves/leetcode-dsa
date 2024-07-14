@@ -1,6 +1,6 @@
 /* O(n) Solution.
-**Beats 84.80% in Runtime**
-** Beats 64.70 in  Memory**
+**Beats 86.89% in Runtime**
+** Beats 79.46% in  Memory**
 
 I've previously done this problem before but it was a N log N solution due to split and sorting.
 
