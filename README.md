@@ -24,7 +24,8 @@ You can also check:
  
 
 
- Current Problems Solved: 26
+
+ Current Problems Solved: 27
 | Question |
 | -------- |
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1.%20Two%20Sum/index.ts">1. Two Sum</a>|
@@ -49,11 +50,11 @@ You can also check:
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/242.%20Valid%20Anagram/index.ts">242. Valid Anagram</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/347.%20Top%20K%20Frequent%20Elements/index.ts">347. Top K Frequent Elements</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/392.%20Is%20Subsequence/index.ts">392. Is Subsequence</a>|
+|<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/414.%20Third%20Maximum%20Number/index.ts">414. Third Maximum Number</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/709.%20To%20Lower%20Case/index.ts">709. To Lower Case</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/771.%20Jewels%20and%20Stones/index.ts">771. Jewels and Stones</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/929.%20Unique%20Email%20Addresses/index.ts">929. Unique Email Addresses</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/2667.%20Create%20Hello%20World%20Function/index.ts">2667. Create Hello World Function</a>|
-
 
 
 
