@@ -23,7 +23,8 @@ You can also check:
 
  
 
- Current Problems Solved: 24
+
+ Current Problems Solved: 25
 | Question |
 | -------- |
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1.%20Two%20Sum/index.ts">1. Two Sum</a>|
@@ -40,6 +41,7 @@ You can also check:
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/88.%20Merge%20Sorted%20Array/index.ts">88. Merge Sorted Array</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/index.ts">121. Best Time to Buy and Sell Stock</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/125.%20Valid%20Palindrome/index.ts">125. Valid Palindrome</a>|
+|<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/141.%20Linked%20List%20Cycle/index.ts">141. Linked List Cycle</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/151.%20Reverse%20Words%20in%20a%20String/index.ts">151. Reverse Words in a String</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/169.%20Majority%20Element/index.ts">169. Majority Element</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/189.%20Rotate%20Array/index.ts">189. Rotate Array</a>|
