@@ -24,7 +24,7 @@ You can also check:
  
 
 
- Current Problems Solved: 25
+ Current Problems Solved: 26
 | Question |
 | -------- |
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1.%20Two%20Sum/index.ts">1. Two Sum</a>|
@@ -49,6 +49,7 @@ You can also check:
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/242.%20Valid%20Anagram/index.ts">242. Valid Anagram</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/347.%20Top%20K%20Frequent%20Elements/index.ts">347. Top K Frequent Elements</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/392.%20Is%20Subsequence/index.ts">392. Is Subsequence</a>|
+|<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/709.%20To%20Lower%20Case/index.ts">709. To Lower Case</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/771.%20Jewels%20and%20Stones/index.ts">771. Jewels and Stones</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/929.%20Unique%20Email%20Addresses/index.ts">929. Unique Email Addresses</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/2667.%20Create%20Hello%20World%20Function/index.ts">2667. Create Hello World Function</a>|
@@ -66,6 +67,12 @@ You can also check:
 <div style="text-align:center">
  <a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/"><img height="16" src="https://frontends.udemycdn.com/frontends-marketplace-experience/staticx/udemy/images/v8/favicon-32x32.png" />  JavaScript Algorithms and Data Structures Masterclass
 </a>             
+ </div>
+
+
+ ### Big-O:
+ <div style="text-align:center">
+ <a href="https://www.youtube.com/watch?v=BgLTDT03QtU"><img src="https://www.youtube.com/s/desktop/29521ae7/img/favicon.ico" /> Big-O Notation - For Coding Interviews - NeetCode </a>             
  </div>
 
 
