@@ -25,7 +25,8 @@ You can also check:
 
 
 
- Current Problems Solved: 27
+
+ Current Problems Solved: 28
 | Question |
 | -------- |
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1.%20Two%20Sum/index.ts">1. Two Sum</a>|
@@ -48,6 +49,7 @@ You can also check:
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/189.%20Rotate%20Array/index.ts">189. Rotate Array</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/226.%20Invert%20Binary%20Tree/index.ts">226. Invert Binary Tree</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/242.%20Valid%20Anagram/index.ts">242. Valid Anagram</a>|
+|<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/268.%20Missing%20Number/index.ts">268. Missing Number</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/347.%20Top%20K%20Frequent%20Elements/index.ts">347. Top K Frequent Elements</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/392.%20Is%20Subsequence/index.ts">392. Is Subsequence</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/414.%20Third%20Maximum%20Number/index.ts">414. Third Maximum Number</a>|
