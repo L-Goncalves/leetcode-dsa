@@ -26,7 +26,8 @@ You can also check:
 
 
 
- Current Problems Solved: 28
+
+ Current Problems Solved: 29
 | Question |
 | -------- |
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1.%20Two%20Sum/index.ts">1. Two Sum</a>|
@@ -38,6 +39,7 @@ You can also check:
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/35.%20Search%20Insert%20Position/index.ts">35. Search Insert Position</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/49.%20Group%20Anagrams/index.ts">49. Group Anagrams</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/58.%20Length%20of%20Last%20Word/index.ts">58. Length of Last Word</a>|
+|<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/61.%20Rotate%20List/index.ts">61. Rotate List</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/66.%20Plus%20One/index.ts">66. Plus One</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/74.%20Search%20a%202D%20Matrix/index.ts">74. Search a 2D Matrix</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/88.%20Merge%20Sorted%20Array/index.ts">88. Merge Sorted Array</a>|
