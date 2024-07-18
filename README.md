@@ -27,7 +27,8 @@ You can also check:
 
 
 
- Current Problems Solved: 29
+
+ Current Problems Solved: 30
 | Question |
 | -------- |
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1.%20Two%20Sum/index.ts">1. Two Sum</a>|
@@ -58,6 +59,7 @@ You can also check:
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/709.%20To%20Lower%20Case/index.ts">709. To Lower Case</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/771.%20Jewels%20and%20Stones/index.ts">771. Jewels and Stones</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/929.%20Unique%20Email%20Addresses/index.ts">929. Unique Email Addresses</a>|
+|<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/2037.%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/index.ts">2037. Minimum Number of Moves to Seat Everyone</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/2667.%20Create%20Hello%20World%20Function/index.ts">2667. Create Hello World Function</a>|
 
 
