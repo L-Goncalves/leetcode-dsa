@@ -29,7 +29,7 @@ You can also check:
 
 
 
- Current Problems Solved: 37
+ Current Problems Solved: 38
 | Question |
 | -------- |
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1.%20Two%20Sum/index.ts">1. Two Sum</a>|
@@ -64,6 +64,7 @@ You can also check:
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/700.%20Search%20in%20a%20Binary%20Search%20Tree/index.ts">700. Search in a Binary Search Tree</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/709.%20To%20Lower%20Case/index.ts">709. To Lower Case</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/771.%20Jewels%20and%20Stones/index.ts">771. Jewels and Stones</a>|
+|<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/819.%20Most%20Common%20Word/index.ts">819. Most Common Word</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/929.%20Unique%20Email%20Addresses/index.ts">929. Unique Email Addresses</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/938.%20Range%20Sum%20of%20BST/index.ts">938. Range Sum of BST</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1636.%20Sort%20Array%20By%20Increasing%20Frequency/index.ts">1636. Sort Array By Increasing Frequency</a>|
