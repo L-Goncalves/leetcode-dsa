@@ -29,7 +29,7 @@ You can also check:
 
 
 
- Current Problems Solved: 43
+ Current Problems Solved: 44
 | Question |
 | -------- |
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1.%20Two%20Sum/index.ts">1. Two Sum</a>|
@@ -38,6 +38,7 @@ You can also check:
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array/index.ts">26. Remove Duplicates from Sorted Array</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/27.%20Remove%20Element/index.ts">27. Remove Element</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/28.%20Find%20the%20index%20of%20First%20Occurence%20in%20a%20String/index.ts">28. Find the index of First Occurence in a String</a>|
+|<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/32.%20Longest%20Valid%20Parentheses/index.ts">32. Longest Valid Parentheses</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/35.%20Search%20Insert%20Position/index.ts">35. Search Insert Position</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/49.%20Group%20Anagrams/index.ts">49. Group Anagrams</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/58.%20Length%20of%20Last%20Word/index.ts">58. Length of Last Word</a>|
