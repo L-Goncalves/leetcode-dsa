@@ -29,7 +29,7 @@ You can also check:
 
 
 
- Current Problems Solved: 44
+ Current Problems Solved: 45
 | Question |
 | -------- |
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1.%20Two%20Sum/index.ts">1. Two Sum</a>|
@@ -59,6 +59,7 @@ You can also check:
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/226.%20Invert%20Binary%20Tree/index.ts">226. Invert Binary Tree</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/242.%20Valid%20Anagram/index.ts">242. Valid Anagram</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/268.%20Missing%20Number/index.ts">268. Missing Number</a>|
+|<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/283.%20Move%20Zeroes/index.ts">283. Move Zeroes</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/347.%20Top%20K%20Frequent%20Elements/index.ts">347. Top K Frequent Elements</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/392.%20Is%20Subsequence/index.ts">392. Is Subsequence</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/414.%20Third%20Maximum%20Number/index.ts">414. Third Maximum Number</a>|
@@ -90,6 +91,11 @@ You can also check:
  <a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/"><img height="16" src="https://frontends.udemycdn.com/frontends-marketplace-experience/staticx/udemy/images/v8/favicon-32x32.png" />  JavaScript Algorithms and Data Structures Masterclass
 </a>             
  </div>
+
+ <div style="text-align:center">
+ <a href="https://www.youtube.com/watch?v=8hly31xKli0"><img src="https://www.youtube.com/s/desktop/29521ae7/img/favicon.ico" /> Algorithms and Data Structures Tutorial - Full Course for Beginners (5 Hour Duration) </a>             
+ </div>
+
 
 
  ### Big-O:
