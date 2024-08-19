@@ -29,7 +29,7 @@ You can also check:
 
 
 
- Current Problems Solved: 47
+ Current Problems Solved: 48
 | Question |
 | -------- |
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1.%20Two%20Sum/index.ts">1. Two Sum</a>|
@@ -53,6 +53,7 @@ You can also check:
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/125.%20Valid%20Palindrome/index.ts">125. Valid Palindrome</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/141.%20Linked%20List%20Cycle/index.ts">141. Linked List Cycle</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/151.%20Reverse%20Words%20in%20a%20String/index.ts">151. Reverse Words in a String</a>|
+|<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/index.ts">153. Find Minimum in Rotated Sorted Array</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/169.%20Majority%20Element/index.ts">169. Majority Element</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/189.%20Rotate%20Array/index.ts">189. Rotate Array</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/200.%20Number%20of%20Islands/index.ts">200. Number of Islands</a>|
