@@ -29,7 +29,7 @@ You can also check:
 
 
 
- Current Problems Solved: 46
+ Current Problems Solved: 47
 | Question |
 | -------- |
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1.%20Two%20Sum/index.ts">1. Two Sum</a>|
@@ -55,6 +55,7 @@ You can also check:
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/151.%20Reverse%20Words%20in%20a%20String/index.ts">151. Reverse Words in a String</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/169.%20Majority%20Element/index.ts">169. Majority Element</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/189.%20Rotate%20Array/index.ts">189. Rotate Array</a>|
+|<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/200.%20Number%20of%20Islands/index.ts">200. Number of Islands</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/206.%20Reverse%20Linked%20List/index.ts">206. Reverse Linked List</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/226.%20Invert%20Binary%20Tree/index.ts">226. Invert Binary Tree</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/242.%20Valid%20Anagram/index.ts">242. Valid Anagram</a>|
