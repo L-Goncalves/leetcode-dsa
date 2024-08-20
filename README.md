@@ -29,7 +29,7 @@ You can also check:
 
 
 
- Current Problems Solved: 51
+ Current Problems Solved: 52
 | Question |
 | -------- |
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1.%20Two%20Sum/index.ts">1. Two Sum</a>|
@@ -48,6 +48,7 @@ You can also check:
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/88.%20Merge%20Sorted%20Array/index.ts">88. Merge Sorted Array</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/100.%20Same%20Tree/index.ts">100. Same Tree</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/102.%20Binary%20Tree%20Level%20Order%20Traversal/index.ts">102. Binary Tree Level Order Traversal</a>|
+|<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/index.ts">103. Binary Tree Zigzag Level Order Traversal</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/104.%20Maximum%20Depth%20of%20Binary%20Tree/index.ts">104. Maximum Depth of Binary Tree</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/112.%20Path%20Sum/index.ts">112. Path Sum</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/index.ts">121. Best Time to Buy and Sell Stock</a>|
