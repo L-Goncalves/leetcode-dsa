@@ -133,6 +133,10 @@ You can also check:
  <a href="https://www.youtube.com/watch?v=b_NjndniOqY"><img src="https://www.youtube.com/s/desktop/29521ae7/img/favicon.ico" /> Learn Tree traversal in 3 Minutes by Bro Code</a>             
  </div>
 
+ <div style="text-align:center">
+ <a href="https://medium.com/leetcode-patterns/leetcode-pattern-1-bfs-dfs-25-of-the-problems-part-1-519450a84353"><img src="" /> Leetcode Pattern 1 | BFS + DFS == 25% of the problems — part 1</a>             
+ </div>
+
 
 ### B-Trees
 <div style="text-align:center">
