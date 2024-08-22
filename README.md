@@ -29,7 +29,7 @@ You can also check:
 
 
 
- Current Problems Solved: 57
+ Current Problems Solved: 58
 | Question |
 | -------- |
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1.%20Two%20Sum/index.ts">1. Two Sum</a>|
@@ -71,6 +71,7 @@ You can also check:
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/283.%20Move%20Zeroes/index.ts">283. Move Zeroes</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/347.%20Top%20K%20Frequent%20Elements/index.ts">347. Top K Frequent Elements</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/392.%20Is%20Subsequence/index.ts">392. Is Subsequence</a>|
+|<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/412.%20Fizz%20Buzz/index.ts">412. Fizz Buzz</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/414.%20Third%20Maximum%20Number/index.ts">414. Third Maximum Number</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/617.%20Merge%20Two%20Binary%20Trees/index.ts">617. Merge Two Binary Trees</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/700.%20Search%20in%20a%20Binary%20Search%20Tree/index.ts">700. Search in a Binary Search Tree</a>|
