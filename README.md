@@ -144,6 +144,11 @@ You can also check:
  <a href="https://medium.com/leetcode-patterns/leetcode-pattern-2-dfs-bfs-25-of-the-problems-part-2-a5b269597f52"><img src="https://miro.medium.com/v2/resize:fill:16:16/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156" /> Leetcode Pattern 1 | DFS + BFS == 25% of the problems — part 2</a>             
  </div>
 
+ <div style="text-align:center">
+ <a href="https://www.youtube.com/watch?v=JfSdGQdAzq8&list=PLDV1Zeh2NRsCYY48kOkeLQ-cg9-eqInzs"><img src="https://www.youtube.com/s/desktop/29521ae7/img/favicon.ico" /> Binary Search Trees Playlist - WilliamFiset</a>             
+ </div>
+
+
 
 ### B-Trees
 <div style="text-align:center">
