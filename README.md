@@ -29,7 +29,7 @@ You can also check:
 
 
 
- Current Problems Solved: 61
+ Current Problems Solved: 62
 | Question |
 | -------- |
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1.%20Two%20Sum/index.ts">1. Two Sum</a>|
@@ -45,6 +45,7 @@ You can also check:
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/61.%20Rotate%20List/index.ts">61. Rotate List</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/66.%20Plus%20One/index.ts">66. Plus One</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/74.%20Search%20a%202D%20Matrix/index.ts">74. Search a 2D Matrix</a>|
+|<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/index.ts">80. Remove Duplicates from Sorted Array II</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/83.%20Remove%20Duplicates%20from%20Sorted%20List/index.ts">83. Remove Duplicates from Sorted List</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/88.%20Merge%20Sorted%20Array/index.ts">88. Merge Sorted Array</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/100.%20Same%20Tree/index.ts">100. Same Tree</a>|
