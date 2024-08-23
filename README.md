@@ -29,7 +29,7 @@ You can also check:
 
 
 
- Current Problems Solved: 60
+ Current Problems Solved: 61
 | Question |
 | -------- |
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1.%20Two%20Sum/index.ts">1. Two Sum</a>|
@@ -88,6 +88,7 @@ You can also check:
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies/index.ts">1431. Kids With the Greatest Number of Candies</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1492.%20The%20kth%20Factor%20of%20n/index.ts">1492. The kth Factor of n</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1636.%20Sort%20Array%20By%20Increasing%20Frequency/index.ts">1636. Sort Array By Increasing Frequency</a>|
+|<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1768.%20Merge%20Strings%20Alternately/index.ts">1768. Merge Strings Alternately</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/2037.%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/index.ts">2037. Minimum Number of Moves to Seat Everyone</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/2236.%20Root%20Equals%20Sum%20of%20Children/index.ts">2236. Root Equals Sum of Children</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/2331.%20Evaluate%20Boolean%20Binary%20Tree/index.ts">2331. Evaluate Boolean Binary Tree</a>|
