@@ -29,10 +29,11 @@ You can also check:
 
 
 
- Current Problems Solved: 62
+ Current Problems Solved: 63
 | Question |
 | -------- |
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/1.%20Two%20Sum/index.ts">1. Two Sum</a>|
+|<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/3.%20Longest%20Substring%20Without%20Repeating%20Characters/index.ts">3. Longest Substring Without Repeating Characters</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/13.%20Roman%20to%20Integer/index.ts">13. Roman to Integer</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/14.%20Longest%20Common%20Prefix/index.ts">14. Longest Common Prefix</a>|
 |<a href="https://github.com/L-Goncalves/LeetCode-DSA/tree/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array/index.ts">26. Remove Duplicates from Sorted Array</a>|
