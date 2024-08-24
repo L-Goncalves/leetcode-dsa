@@ -127,6 +127,12 @@ You can also check:
  <a href="https://www.toptal.com/developers/sorting-algorithms"><img src="https://bs-assets.toptal.io/blackfish-assets/public/base/images/favicons/toptal-blog-favicon32x32_c2c2ba.png" height="16" />  Sorting Algorithms Animations - Toptal </a>             
  </div>
 
+### Sliding Window:
+
+<div style="text-align:center">
+ <a href="https://www.youtube.com/watch?v=p-ss2JNynmw"><img src="https://www.youtube.com/s/desktop/29521ae7/img/favicon.ico" /> Sliding window technique - Inside code </a>             
+ </div>
+
 
 
 
